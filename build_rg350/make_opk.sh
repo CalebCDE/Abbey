@@ -16,6 +16,7 @@ StartupNotify=true
 Icon=icon
 Categories=games
 X-OD-NeedsDownscaling=true
+Comment[es]=La Abadía del Crimen
 EOF
 
 # create opk
